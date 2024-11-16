@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sahil7811/Text-Genie/static/css/main.31d6cfe0.css",
-    "main.js": "/Sahil7811/Text-Genie/static/js/main.79cb7693.js",
-    "static/js/453.fd94fc6e.chunk.js": "/Sahil7811/Text-Genie/static/js/453.fd94fc6e.chunk.js",
-    "index.html": "/Sahil7811/Text-Genie/index.html",
-    "main.79cb7693.js.map": "/Sahil7811/Text-Genie/static/js/main.79cb7693.js.map",
-    "453.fd94fc6e.chunk.js.map": "/Sahil7811/Text-Genie/static/js/453.fd94fc6e.chunk.js.map"
+    "main.css": "/Text-Genie/static/css/main.31d6cfe0.css",
+    "main.js": "/Text-Genie/static/js/main.44a5416a.js",
+    "static/js/453.fd94fc6e.chunk.js": "/Text-Genie/static/js/453.fd94fc6e.chunk.js",
+    "index.html": "/Text-Genie/index.html",
+    "main.44a5416a.js.map": "/Text-Genie/static/js/main.44a5416a.js.map",
+    "453.fd94fc6e.chunk.js.map": "/Text-Genie/static/js/453.fd94fc6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.79cb7693.js"
+    "static/js/main.44a5416a.js"
   ]
 }
